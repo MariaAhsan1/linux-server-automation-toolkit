@@ -63,4 +63,10 @@ Run the script:
 
 **Maria Ehsan**
 
-Aspiring DevOps Engineer | Linux | Git | Bash | Docker | AWS
+Aspiring DevOps Engineer | Linux | Git | Bash | Docker | AWS    
+
+## 📷 Project Screenshot
+
+This screenshot shows the successful execution of the Linux Backup Automation Tool.
+
+![Backup Script Output](screenshots/backup-script-output.png)
